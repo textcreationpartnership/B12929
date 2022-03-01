@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the establishing of the peace and quiet of the Church of England.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12929</idno>
+            <idno type="STC">STC 8824</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[17]</idno>
+            <idno type="STC">ESTC S100987</idno>
+            <idno type="EEBO-CITATION">99891178</idno>
+            <idno type="PROQUEST">ocm99891178</idno>
+            <idno type="VID">188171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188171)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the establishing of the peace and quiet of the Church of England.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXVI. [1626]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: ... White-Hall, the 14. of Iune, in the second yeere of our reigne ... .</note>
+                  <note>In this state the arms show two leaves between the lion's legs (arms 21). Steele notation: care,  of  2) charge  his.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188171:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of England's coat of arms, 1609</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT.</p>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head>¶ A Proclamation for the eſtabliſhing of the Peace and Quiet of the Church of England.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings moſt Excellent Maieſty, in His moſt religious care,</hi> and Princely conſideration, of the Peace of this Church &amp; Common wealth of <hi>England,</hi> and other his Dominions, whereof God of his goodnes hath, vnder his Sonne <hi>Chriſt Ieſus,</hi> made him the ſupreame Gouernour, obſeruing, that in all ages great diſturbances, both to Church and State, haue enſued out of ſmall beginnings, when the ſeedes of Contention were not timely preuented; and finding<g ref="char:punc">▪</g> that of late ſome Queſtions and Opinions ſeeme to haue been broched or raiſed in matters of Doctrine, and the Tenents of our Religion, which at firſt onely being meant againſt the Papiſts, but afterwards by the ſharpe and indiſcreete handling and main<g ref="char:EOLhyphen"/>taining of ſome of either parts, haue giuen much offence to the ſober and well grounded Rea<g ref="char:EOLhyphen"/>ders, and Hearers of theſe late written Bookes on both ſides, which may iuſtly be feared, will raiſe ſome hopes in the profeſſed enemies of our Religion, the Romiſh Catholikes, that by de<g ref="char:EOLhyphen"/>grees, the profeſſours of our Religion may bee drawen firſt to Schiſme and after to plaine Popery.</p>
+            <p>His Maieſtie therefore, in the integrity of His owne heart, and ſingular prouidence of the peaceable gouernment of that people, which God hath committed to His charge, hath thought fit, by the aduice of His reuerend Biſhops, to declare and publiſh, not onely to His owne people, but alſo to the whole world, His vtter diſlike to all thoſe, who to ſhew the ſubtilty of their wits, or to pleaſe their owne humours, or vent their owne paſſions, doe, or ſhall aduenture to ſtirre or moue any new Opinions, not only contrary, but differing from the ſound and Ortho<g ref="char:EOLhyphen"/>doxall grounds of the true Religion, ſincerely profeſſed, and happily eſtabliſhed in the Church of <hi>England;</hi> And alſo to declare His full and conſtant reſolution, that neither in matter of Doctrine, or Diſcipline of the Church, nor in the gouernment of the State, he will admit of the leaſt innouation, but by Gods aſſiſtance will ſo guide the Scepter of theſe His Kingdomes and Dominions, by the Diuine prouidence put into his hand, as ſhall be for the comfort and aſſu<g ref="char:EOLhyphen"/>rance of His ſober, religious and well affected Subiects, and for the repreſſing and ſeuere pu<g ref="char:EOLhyphen"/>niſhing of the inſolencies of ſuch, as out of any ſiniſter reſpects, or diſaffection to his Perſon or Gouernment, ſhall dare either in Church or State, to diſturbe or diſquiet the peace thereof.</p>
+            <p>And therefore his moſt excellent Maieſtie, doth heereby admoniſh, and alſo ſtraitly charge and command all his ſubiects of this Realme, and of his Realme of <hi>Ireland,</hi> of whatſoeuer degree, qualitie, or condition they be of, eſpecially thoſe who are Church-men, and by their Profeſſion and places, ought to be Lights and Guides to others, that from hencefoorth they cary themſelues ſo wiſely, warily, and conſcionably, that neither by Writing, Preaching, Printing, Conferences, or otherwiſe, they raiſe any doubts, or publiſh, or maintaine any new inuentions, or opinions concerning Religion, then ſuch as are clearly grounded, and warran<g ref="char:EOLhyphen"/>ted by the Doctrine and Diſcipline of the Church of <hi>England,</hi> heretofore publiſhed, and happily eſtabliſhed by authoritie. And if any perſon, of what degree ſoeuer, ſhall at any time hereaf<g ref="char:EOLhyphen"/>ter, aduenture to breake this Rule of ſobrietie, and due obedience to his Maieſtie, and his Lawes, and to this religious duetie to the Church of God; His Maieſtie doth hereby ſtrait<g ref="char:EOLhyphen"/>ly charge, and command all his reuerend Archbiſhops and Biſhops in their ſeuerall Dio<g ref="char:EOLhyphen"/>ceſſes, ſpeedily to reclaime and repreſſe all ſuch ſpirits, as ſhall in the leaſt degree attempt to violate this bond of peace. And his Maieſtie doth alſo charge and command all his Counſel<g ref="char:EOLhyphen"/>lors of State, Iudges, Iuſtices and miniſters of Iuſtice whatſoeuer, that they in their ſeue<g ref="char:EOLhyphen"/>rall places take eſpeciall care, to obſerue and execute his Maieſties pious and Royall pleaſure herein expreſſed.</p>
+            <p>And laſtly, his Maieſtie doth hereby giue aſſurance to all whom it may concerne, that ſuch as ſhall take the boldneſſe wilfully to neglect this his Maieſties gracious admonition, and for the ſatiſfying of their vnquiet and reſtleſſe ſpirits, or to expreſſe their raſh or vndutifull in<g ref="char:EOLhyphen"/>ſolencies, ſhall wilfully breake that circle of Order, which without apparant danger to Church and State, may not bee broken; That his Maieſtie ſhall and will proceed againſt all ſuch offendors, and wilfull contemners of his gracious and Religious gouernment, with that ſeueritie, as vpon due conſideration had of the qualitie of their offences and contempts they ſhall deſerue, that ſo by the exemplary puniſhment of ſome few, who by lenitie and mercy can<g ref="char:EOLhyphen"/>not be wonne, all others may be warned, and take heed, how they fall into the iuſt indignati<g ref="char:EOLhyphen"/>on of their Soueraigne; and that all his Maieſties good and louing ſubiects, who are ſtudi<g ref="char:EOLhyphen"/>ous of the peace and proſperitie of this Church and Common wealth, may bleſſe God, for his Maieſties pious, religious, wiſe, iuſt, and gracious gouernment.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Palace of White-Hall, <date>the 14. of Iune, in the ſecond yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXVI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
